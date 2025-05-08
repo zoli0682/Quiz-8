@@ -29,8 +29,8 @@ I mainly use **p5.js**, which is a feature-rich **JavaScript tool library**. It 
   var custom  = fft.getEnergy( 100, 200 );
 ```
 
-code from [the link of code block](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/)
+code from [Codrops](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/)
 
 ![Code of Pixel Effects](readmeImages/p5jsPixelEffects.png)
 
-code from [the code link of part of pixel effects](https://www.youtube.com/watch?v=FIvHnnOJ-7o)
+code from [https://www.youtube.com/watch?v=FIvHnnOJ-7o](https://www.youtube.com/watch?v=FIvHnnOJ-7o)
